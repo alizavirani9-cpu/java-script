@@ -8,3 +8,7 @@ alert(height);
 
 var caseQty = 144;
 alert(caseQty);
+
+
+var originalNum =23;
+var numToBeAdded =originalNum+numToBeAdded;
