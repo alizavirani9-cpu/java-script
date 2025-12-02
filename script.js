@@ -12,4 +12,4 @@ alert(caseQty);
 
 var originalNum =23;
 var numToBeAdded =7;
-var newNum= originalNum+numToBeAdded;
+var newNum = originalNum+numToBeAdded;
